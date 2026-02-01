@@ -1,5 +1,7 @@
 📢 Project: TND232 – RS232 & USB SN76489 Tandy Sound Card
 
+Home Project Site: https://www.retroianer.de
+
 TND232 is a retro-computing hardware and software project to bring authentic Tandy/PCjr style 3-voice sound to IBM-PC compatible computers using modern interfaces like RS232 (serial) and USB, driven by the classic Texas Instruments SN76489 programmable sound generator chip.
 
 🎯 Overview
