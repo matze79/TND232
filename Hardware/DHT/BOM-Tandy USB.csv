@@ -1,0 +1,24 @@
+Comment,Designator,Footprint,LCSC,Quantity
+"2,2K",R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+XO32,Y3,Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm,,1
+SG-7050CCN,Y2,Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm,,1
+DE9_Socket_MountingHoles,J3,DSUB-9_Socket_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset4.94mm,,1
+LED,D1,LED_D3.0mm,,1
+LED,D2,LED_D3.0mm,,1
+100nf,C9,C_Disc_D3.4mm_W2.1mm_P2.50mm,,1
+10uf,C6,CP_Radial_D5.0mm_P2.50mm,,1
+100nf,C8,C_Disc_D3.4mm_W2.1mm_P2.50mm,,1
+10uf,C7,CP_Radial_D5.0mm_P2.50mm,,1
+100nf,C2,C_Disc_D3.4mm_W2.1mm_P2.50mm,,1
+SN76489AN,U1,DIP-16_W7.62mm,,1
+10uf,C5,CP_Radial_D5.0mm_P2.50mm,,1
+3.579 Mhz,Y1,Oscillator_DIP-14,,1
+10uf,C4,CP_Radial_D5.0mm_P2.50mm,,1
+33R,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+100uf,C3,CP_Radial_D5.0mm_P2.50mm,,1
+68pf,C1,C_Disc_D3.4mm_W2.1mm_P2.50mm,,1
+AudioJack3,J1,jack_3.5_pj313d-smt,,1
+330R,R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+330R,R3,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,1
+MAX232,U2,DIP-16_W7.62mm_LongPads,,1
+Arduino_Nano_v3.x,A1,Arduino_Nano,,1
