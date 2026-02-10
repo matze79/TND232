@@ -2,7 +2,7 @@ DOSBox 0.74.3 – Serial Port Hack
 
 
 
-This repository contains a modified DOSBox 0.74.3 with the serial device hardcoded in the source.
+This repository contains a modified File of DOSBox 0.74.3 with the serial device hardcoded in the source.
 
 
 
