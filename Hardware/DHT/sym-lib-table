@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TND_USB")(type "KiCad")(uri "${KIPRJMOD}/TND_USB.kicad_sym")(options "")(descr ""))
+  (lib (name "lpt")(type "KiCad")(uri "E:/KiCAD Dac #1/LPT/lpt.kicad_sym")(options "")(descr ""))
+)
